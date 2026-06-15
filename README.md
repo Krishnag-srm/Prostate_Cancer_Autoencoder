@@ -45,6 +45,17 @@ Open and run:
 Prostate_Cancer_Prognosis.ipynb
 ```
 
+## Repository Structure
+
+```text
+.
+├── Prostate_Cancer_Prognosis.ipynb
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
 ## Code Availability
 
 The complete source code and analysis pipeline are available in this repository.

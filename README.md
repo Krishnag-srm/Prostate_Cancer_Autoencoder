@@ -49,6 +49,15 @@ Prostate_Cancer_Prognosis.ipynb
 
 The complete source code and analysis pipeline are available in this repository.
 
+## Supplementary Material
+
+Additional figures supporting the results presented in the manuscript are available in the `supplementary/` directory.
+
+- Figure S1: Gene variance distribution in the PRAD dataset. The dashed line indicates the selected variance threshold (1.0)
+- Figure S2: Training and validation loss curves of the autoencoder model
+- Figure S3: Silhouette analysis indicating K = 2 as the optimal number of clusters
+- Figure S4: GO biological process enrichment analysis of significant differentially expressed genes
+
 ## Citation
 
 If you use this code, please cite the associated publication.

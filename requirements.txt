@@ -1,9 +1,10 @@
 numpy
 pandas
-scikit-learn
-lifelines
-torch
 matplotlib
 scipy
-seaborn
+scikit-learn
+statsmodels
+tensorflow
+lifelines
 gseapy
+decoupler

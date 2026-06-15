@@ -18,24 +18,12 @@ venv/
 # Large datasets
 data/
 datasets/
-*.csv
-*.tsv
-*.txt
-*.xlsx
 
 # Model files
 *.h5
 *.keras
 *.pt
 *.pth
-
-# Output files
-results/
-outputs/
-figures/
-*.png
-*.jpg
-*.pdf
 
 # Colab
 sample_data/

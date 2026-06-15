@@ -26,10 +26,9 @@ Prostate_Cancer_Prognosis.ipynb
 
 ## Dataset
 
-TCGA-PRAD dataset
+TCGA-PRAD (The Cancer Genome Atlas Prostate Adenocarcinoma)
 
-Download from:
-https://portal.gdc.cancer.gov/
+The notebook downloads/loads the required datasets using the links provided in the code.
 
 ## Citation
 

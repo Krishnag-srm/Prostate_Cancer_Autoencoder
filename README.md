@@ -10,9 +10,6 @@ This repository contains the complete analysis pipeline for prostate cancer prog
 - Autoencoder-based Feature Extraction
 - Cox Proportional Hazards Modeling
 - Risk Stratification and Survival Analysis
-- Differential Gene Expression Analysis
-- Functional Enrichment Analysis
-- Transcription Factor Analysis
 
 ## Requirements
 
@@ -37,26 +34,21 @@ https://xenabrowser.net/
 
 The dataset download links are included in the notebook.
 
+```text
 ## Usage
 
-Open and run:
+Open the notebook below and execute the cells sequentially to reproduce the complete analysis workflow:
 
 ```text
-Prostate_Cancer_Prognosis.ipynb
-```
+notebooks/Prostate_Cancer_Autoencoder.ipynb
 
 ## Code Availability
 
-The complete source code and analysis pipeline are available in this repository.
+The source code and analysis pipeline are available in this repository.
 
 ## Supplementary Material
 
-Additional figures supporting the results presented in the manuscript are available in the `supplementary/` directory.
-
-- Figure S1: Gene variance distribution in the PRAD dataset. The dashed line indicates the selected variance threshold (1.0)
-- Figure S2: Training and validation loss curves of the autoencoder model
-- Figure S3: Silhouette analysis indicating K = 2 as the optimal number of clusters
-- Figure S4: GO biological process enrichment analysis of significant differentially expressed genes
+Additional figures supporting the results presented in the manuscript are available in the `Supplementary_Material.pdf`.
 
 ## Citation
 

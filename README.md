@@ -37,7 +37,7 @@ The dataset download links are included in the notebook.
 
 ## Usage
 
-Open the notebook below and execute the cells sequentially to reproduce the complete analysis workflow:
+Open the run:
 
 ```text
 notebooks/Prostate_Cancer_Autoencoder.ipynb

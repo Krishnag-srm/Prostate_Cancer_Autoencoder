@@ -54,9 +54,3 @@ Additional figures supporting the results presented in the manuscript are availa
 ## Citation
 
 If you use this code, please cite the associated publication.
-
-Additional figures supporting the results presented in the manuscript are available in the `Supplementary_Material.pdf`.
-
-## Citation
-
-If you use this code, please cite the associated publication.

@@ -51,6 +51,13 @@ The source code is available in this repository.
 
 Additional figures supporting the results presented in the manuscript are available in `Supplementary_Material.pdf`.
 
+## Contact
+
+For questions regarding the code, data processing, or analysis pipeline, please contact:
+
+Krishna Geetika Mannava  
+Email: geetika_mannava@srmap.edu.in
+
 ## Citation
 
-If you use this code, please cite the associated publication.
+Citation information will be updated once the associated manuscript is published.

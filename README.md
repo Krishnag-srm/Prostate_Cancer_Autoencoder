@@ -1,9 +1,10 @@
 # Prostate_Cancer_Autoencoder
-Concordance Index Guided Autoencoder-Based Feature Extraction Using RNA-Seq Data Unveils Master Regulators For High-Risk Prostate Cancer Patients
+
+Concordance Index Guided Autoencoder-Based Feature Extraction Using RNA-Seq Data Unveils Master Regulators for High-Risk Prostate Cancer Patients
 
 ## Overview
 
-This repository contains the complete analysis pipeline for prostate cancer prognosis prediction using RNA-Seq Data.
+This repository contains the complete analysis pipeline for prostate cancer prognosis prediction using RNA-Seq data.
 
 ## Methods
 
@@ -34,19 +35,25 @@ https://xenabrowser.net/
 
 The dataset download links are included in the notebook.
 
-```text
 ## Usage
 
 Open the notebook below and execute the cells sequentially to reproduce the complete analysis workflow:
 
 ```text
 notebooks/Prostate_Cancer_Autoencoder.ipynb
+```
 
 ## Code Availability
 
 The source code and analysis pipeline are available in this repository.
 
 ## Supplementary Material
+
+Additional figures supporting the results presented in the manuscript are available in `Supplementary_Material.pdf`.
+
+## Citation
+
+If you use this code, please cite the associated publication.
 
 Additional figures supporting the results presented in the manuscript are available in the `Supplementary_Material.pdf`.
 

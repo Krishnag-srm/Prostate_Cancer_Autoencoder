@@ -45,7 +45,7 @@ notebooks/Prostate_Cancer_Autoencoder.ipynb
 
 ## Code Availability
 
-The source code and analysis pipeline are available in this repository.
+The source code is available in this repository.
 
 ## Supplementary Material
 

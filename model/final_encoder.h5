@@ -1,1 +1,3 @@
-
+git add models/final_encoder.h5
+git commit -m "Add trained autoencoder model"
+git push
